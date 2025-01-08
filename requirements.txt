@@ -1,0 +1,17 @@
+ipykernel
+openai
+python-dotenv
+python-multipart 
+PyPDF2 
+python-docx 
+streamlit 
+streamlit-webrtc 
+moviepy
+pydub
+fastapi
+uvicorn
+langchain
+chromadb
+langchain-community
+langchain_openai
+langchain_chroma
