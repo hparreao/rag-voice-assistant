@@ -204,7 +204,7 @@ def audio_to_text_tab():
         st.write(transcription)
 
 def main():
-    st.title("Chat com Interação por Voz 🎙️")
+    st.title("Chat RAG com Interação por Voz 🎙️")
     initialize_session_state()
     
     # Sidebar for document upload
